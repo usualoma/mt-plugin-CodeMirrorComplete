@@ -1,0 +1,18 @@
+# version control
+\bCVS
+(^|/)\.
+
+# CPAN chain files
+^MANIFEST
+^Makefile
+^META.yml$
+^MYMETA.yml$
+^blib/
+
+# Artwork data for description
+^artwork/
+^tools/
+
+# packages
+\.zip$
+\.tar\.gz$

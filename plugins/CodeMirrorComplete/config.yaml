@@ -1,0 +1,18 @@
+id: CodeMirrorComplete
+name: CodeMirrorComplete
+version: 1.00
+description: <__trans phrase="Enable the MT to complete MT-tag and modifier at the template editing page.">
+author_name: <__trans phrase="ToI Inc.">
+author_link: http://tec.toi-planning.net/
+plugin_link: https://github.com/usualoma/mt-plugin-CodeMirrorComplete/
+
+l10n_class: CodeMirrorComplete::L10N
+
+settings:
+    keybind:
+        default: "Ctrl-Space,Ctrl-P"
+
+config_template: system_config.tmpl
+
+callbacks:
+    MT::App::CMS::template_param.edit_template: $CodeMirrorComplete::CodeMirrorComplete::template_param_edit_template
