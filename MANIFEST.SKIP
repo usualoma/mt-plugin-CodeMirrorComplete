@@ -7,6 +7,7 @@
 ^Makefile
 ^META.yml$
 ^MYMETA.yml$
+^MYMETA.json$
 ^blib/
 
 # Artwork data for description

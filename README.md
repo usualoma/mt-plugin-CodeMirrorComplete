@@ -6,7 +6,7 @@ This plugin enables the Movable Type to complete MT-tag and modifier at the temp
 ## Features
 
 * Complete various object about MT-tag
-  * Tag name
+  * Tag name (including plugin's tag and customfield's tag)
   * Attribute (a.k.a Modifier) name
   * Attribute value
   * Variable name
