@@ -49,6 +49,10 @@ Should look like this when installed:
             plugins/
                 CodeMirrorComplete/
 
+## Keybind
+
+By default, a MT-tag is completed by typing "Control + Space" or "Control + p".
+This keybind can be changed at the "System Plugin Settings".
 
 ## LICENSE
 
