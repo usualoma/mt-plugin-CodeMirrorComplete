@@ -27,7 +27,7 @@ This plugin enables the Movable Type to complete MT-tag and modifier at the temp
 
 ### Demo Movie
 
-http://screencast.com/t/t3O7GoN2T
+http://screencast.com/t/pxZs2myPY
 
 
 
